@@ -1,2 +1,2 @@
-# vs-code
-VS Code examples and configurations
+# Junkyard
+Repositorio de pruebas 
